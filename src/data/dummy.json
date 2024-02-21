@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "items": [
+      {
+        "name": "Cheeseburger",
+        "price": 5.99,
+        "category": "Burgers",
+        "description": "Juicy beef patty with melted cheese"
+      },
+      {
+        "name": "French Fries",
+        "price": 2.49,
+        "category": "Sides",
+        "description": "Crispy golden fries"
+      },
+      {
+        "name": "Chicken Caesar Salad",
+        "price": 7.99,
+        "category": "Salads",
+        "description": "Fresh romaine lettuce, grilled chicken, and Caesar dressing"
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "price": 3.99,
+        "category": "Beverages",
+        "description": "Creamy chocolate shake"
+      }
+    ],
+    "categories": ["Burgers", "Sides", "Salads", "Beverages"]
+  }
+}
